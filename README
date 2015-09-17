@@ -1,0 +1,41 @@
+"com.h"
+	This file defines some macros and global variables used in this program.
+
+"Symbol.h"
+	This file contains the declarations of the Symbol class and the SymbolTable class
+
+"Symbol.cpp"
+	This file implements the Symbol class and the SymbolTable class
+
+"ANTNode.h"
+	This file contains the declarations of the tree node class of out annotated parse tree and some tool functions.
+
+"ANTNode.cpp"
+	This file implements the annotated parse tree.
+
+"Print.h"
+	This file contains some decalrations of functions used to print LLVM codes.
+
+"Print.cpp"
+	This file implements the functions used to generate LLVM codes.
+
+"main.cpp"
+	This file implements the main function of the project.
+
+"myFlex.l"
+	This file is the input file of the flex.
+
+"myYacc.y"
+	This file is the input file of the Yacc.
+
+"Makefile"
+	This file is used to make the whole project.
+
+"mytestcase.zip"
+	This file contains several tests I wrote for my project. It tests some special functions.
+
+"The Report about Project 2.pdf"
+	This is the report for this project. It's a little long...
+"README"
+	It's this file you are reading. Including this file, there are 14 files in this package. 
+
